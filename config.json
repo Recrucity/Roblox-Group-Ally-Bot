@@ -1,0 +1,9 @@
+{
+  "auth": {
+    "cookie": ".ROBLOSECURITY cookie for account that has permission to send ally requests in group"
+  },
+  "ally": {
+    "yourGroupId": "",
+    "webhook": "discord webhook"
+  }
+}
